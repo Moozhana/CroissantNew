@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(245, 158, 96);
+}
+h1,
+p {
+  text-align: center;
+}
+.pages {
+  display: flex;
+  justify-content: center;
+}
+a {
+  margin: 6px;
+}
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.email {
+  color: blueviolet;
+}
